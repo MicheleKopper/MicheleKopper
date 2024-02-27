@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF407Dsize=30&lines=Olá!Sou+a+Michele+Kopper+💜)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5B0888&size=30&lines=Olá!+Sou+Michele+Kopper+💜)](https://git.io/typing-svg)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
