@@ -1,4 +1,6 @@
-## 💜 Prazer, sou <strong>Michele Kopper!</strong>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF3EA5size=30&lines=Olá!+Michele+Kopper+💜)](https://git.io/typing-svg)
+
+ Prazer, sou <strong>Michele Kopper!</strong>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
