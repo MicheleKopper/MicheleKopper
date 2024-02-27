@@ -62,6 +62,40 @@
 </p>
 
 
+### Linguagens de Programação
+
+<p align="left"> 
+  
+  <a target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+</p>
+
+### Design Gráfico
+<p align="left">
+   <a target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+   
+  <a target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+    
+  <a target="_blank"> 
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_photoshop-%2331A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=ffffff"/>
+  </a>
+   &emsp;
+   
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
+  </a>
+    &emsp;
+ >
+ </p>
+
 
 
 
