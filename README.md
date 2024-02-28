@@ -2,10 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-### ⭐ Sobre mim
-
 <p align="left"> 
-   Sou uma Designer e Gestora de Marketing apaixonada pela criação de produtos digitais. Ao longo dos anos, desenvolvi habilidades de design para sites, redes sociais e diversas peças publicitárias, trabalhando em projetos desafiadores que deram vida a ideias criativas.
+   Sou Designer e Gestora de Marketing apaixonada pela criação de produtos digitais. Ao longo dos anos, desenvolvi habilidades de design para sites, redes sociais e diversas peças publicitárias, trabalhando em projetos desafiadores que deram vida a ideias criativas.
 
    Recentemente descobri minha paixão pelo desenvolvimento web e estou em uma jornada emocionante para me tornar uma programadora Full Stack. Com um olhar criativo e focada em encontrar soluções, estou dedicando meu tempo e energia para dominar as linguagens de HTML, CSS, JavaScript, Node.js, e Back-End, além de explorar frameworks e outras ferramentas para expandir meus conhecimentos.
 
