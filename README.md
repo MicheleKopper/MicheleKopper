@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Sobre mim
+### ⭐ Sobre mim
 
 <p align="left"> 
    Sou uma Designer e Gestora de Marketing apaixonada pela criação de produtos digitais. Ao longo dos anos, desenvolvi habilidades de design para sites, redes sociais e diversas peças publicitárias, trabalhando em projetos desafiadores que deram vida a ideias criativas.
@@ -130,10 +130,11 @@
    <a target="_blank"> 
     <img alt="Google Ads" src="https://img.shields.io/badge/Google_My_Business-black?style=for-the-badge&logo=googlemybusiness"/>
   </a>
+
    &emsp;
    
- >
  </p>
+
 
 
 
