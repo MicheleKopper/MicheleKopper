@@ -25,21 +25,23 @@
 
 <br>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:michelekopper@gmail.com" /></a>
+<p align="left"> 
 
-  <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michele-kopper-313519184/"/></a>
+<a target="_blank"> 
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&link=mailto%3Amichelekopper%40gmail.com">
+</a>   
+&emsp;
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5551997997621"/></a>
+  <a target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&labelColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichele-kopper-313519184%2F">
+  </a> 
+   &emsp;
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/michele.kopper?locale=pt_BR"/></a>
+   <a target="_blank"> 
+     <img alt="Whats" src="https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&link=https%3A%2F%2Fwa.me%2F5551997997621">
+   </a>
+  &emsp;
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/koppermichele/"/></a>
 </p>
 
 
