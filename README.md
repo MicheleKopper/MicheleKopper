@@ -1,29 +1,16 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5B0888&size=30&lines=Olá!+Sou+Michele+Kopper+💜)](https://git.io/typing-svg)
-
+### <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&width=600&height=50&lines=<Olá!+Sou+Michele+Kopper/>;" alt="Headline"/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+### Sobre mim
+
 <p align="left"> 
-   Eu sou estudante de programação Full Stack Developer e busco transição de carreira na área da tecnologia. Atualmente sou Gerente de Marketing e trabalho no desenvolvimento de peças criativas em uma agência de comunicação. 
-</p>
+   Sou uma Designer e Gestora de Marketing apaixonada pela criação de produtos digitais. Ao longo dos anos, desenvolvi habilidades de design para sites, redes sociais e diversas peças publicitárias, trabalhando em projetos desafiadores que deram vida a ideias criativas.
 
-<p align="left">
-  🐶 Hobbies: Gosto de assistir streaming, passear com meu pet (Theodoro), estar com minha família e tomar chimarrão.
-</p>
+   Recentemente descobri minha paixão pelo desenvolvimento web e estou em uma jornada emocionante para me tornar uma programadora Full Stack. Com um olhar criativo e focada em encontrar soluções, estou dedicando meu tempo e energia para dominar as linguagens de HTML, CSS, JavaScript, Node.js, e Back-End, além de explorar frameworks e outras ferramentas para expandir meus conhecimentos.
 
-<p align="left">
-  💼 Formação: Sou estudante Full Stack Developer na Growdev, e estou adquirindo hard skills em HTML, CSS, JavaScript, Bootstrap, Node JS, Back-End, API, Git e GitHub.
+   Estou ansiosa para combinar minha perspectiva única como designer no desenvolvimento online que cativa e encanta os usuários.
 </p>
-
-<p align="left">
-  📚 Estudos: Hoje estou aprendendo HTML, CSS e GitHub.
-</p>
-
-<p align="left">
-  🔨 Experiências profissionais: Meus últimos trabalhos foram na área de Marketing como Gerente e Coordenadora de Marketing.
-</p>
-
-<br>
 
 <p align="left"> 
 
