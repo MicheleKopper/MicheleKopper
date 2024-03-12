@@ -10,10 +10,21 @@
    Estou ansiosa para combinar minha perspectiva única como designer no desenvolvimento online que cativa e encanta os usuários.
 </p>
 
----
-Hobbies
 
-:feet:
+### :purple_heart: Hobbies
+
+:feet: Estar com meu pet Theodoro 
+:movie_camera: Assistir streaming
+:family: Curtir a família
+:herb: Tomar chimarrão
+
+### :mortar_board: Formação
+:heavy_check_mark: Tecnólogo em Marketing
+:heavy_check_mark: Eng° Civil _(incompleto)_
+:heavy_check_mark: Full Stack Developer _(cursando)_
+
+### :sunglasses: Experiências profissionais
+:heavy_check_mark: Gerente de Marketing _(atual)_ - Soul Marketing   :heavy_check_mark: Gerente de Marketing - Agência Oriup (Grupo Jornal O Diário)   :heavy_check_mark: Coordenadora de Marketing - Sigma Comércio e Serviços
 
 <p align="left"> 
 
