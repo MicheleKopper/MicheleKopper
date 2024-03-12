@@ -10,20 +10,25 @@
    Estou ansiosa para combinar minha perspectiva única como designer no desenvolvimento online que cativa e encanta os usuários.
 </p>
 
+---
+Hobbies
+
+:feet:
+
 <p align="left"> 
 
 <a target="_blank"> 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&link=mailto%3Amichelekopper%40gmail.com">
+<img href="mailto:michelekopper@gmail.com" alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&link=mailto%3Amichelekopper%40gmail.com">
 </a>   
 &emsp;
 
   <a target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&labelColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichele-kopper-313519184%2F">
+    <img href="https://www.linkedin.com/in/michele-kopper-313519184/" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&labelColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichele-kopper-313519184%2F">
   </a> 
    &emsp;
 
    <a target="_blank"> 
-     <img alt="Whats" src="https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&link=https%3A%2F%2Fwa.me%2F5551997997621">
+     <img href="https://wa.me/5551997997621" alt="Whats" src="https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&link=https%3A%2F%2Fwa.me%2F5551997997621">
    </a>
   &emsp;
 
