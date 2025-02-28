@@ -1,6 +1,6 @@
 ### <img src="https://readme-typing-svg.herokuapp.com?color=%23FF69B4&size=32&width=600&height=50&lines=Ol%C3%A1!+Sou+Michele+Kopper" alt="Headline"/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="DevRock GIF" align="right" width="400px">
 
 ### 👩‍💻 Sobre Mim
 
