@@ -38,4 +38,4 @@
 ### 📬 Contato
 📧 **Email:** [michelekopper@gmail.com](mailto:michelekopper@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/michele-kopper](https://linkedin.com/in/michele-kopper)  
-💻 **GitHub:** [github.com/seuusuario](https://github.com/seuusuario)  
+💻 **GitHub:** [github.com/MicheleKopper](https://github.com/MicheleKopper)  
