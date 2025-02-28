@@ -43,9 +43,9 @@
 
 ## 🎓 Formação
 
-🎓 [Full Stack Developer](https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack) *(Growdev - em andamento)*
-📢 [Tecnólogo em Marketing](https://graduacao.unilasalle.edu.br/cursos-ead/marketing) *(Universidade LaSalle, 2023)*
-🏗 [Engenharia Civil (incompleto)](https://www.unisinos.br/graduacao/engenharia-civil/sao-leopoldo) *(Unisinos, 2013-2016)*
+🎓 <a href="https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack" target="_blank">Full Stack Developer</a> *(Growdev - em andamento)*  
+📢 <a href="https://graduacao.unilasalle.edu.br/cursos-ead/marketing" target="_blank">Tecnólogo em Marketing</a> *(Universidade LaSalle, 2023)*  
+🏗 <a href="https://www.unisinos.br/graduacao/engenharia-civil/sao-leopoldo" target="_blank">Engenharia Civil (incompleto)</a> *(Unisinos, 2013-2016)*
 
 ---
 
@@ -59,6 +59,6 @@
 
 ## 📬 Contato
 
-📧 **Email:** [michelekopper@gmail.com](mailto:michelekopper@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/michele-kopper](https://linkedin.com/in/michele-kopper)  
-💻 **GitHub:** [github.com/MicheleKopper](https://github.com/MicheleKopper)
+📧 <a href="mailto:michelekopper@gmail.com">michelekopper@gmail.com</a>  
+💼 <a href="https://linkedin.com/in/michele-kopper" target="_blank">LinkedIn</a>  
+💻 <a href="https://github.com/MicheleKopper" target="_blank">GitHub</a>  
