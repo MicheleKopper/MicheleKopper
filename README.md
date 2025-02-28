@@ -26,39 +26,32 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ### 🛠 Ferramentas
-
 - **IDE:** Visual Studio Code
 - **Versionamento:** Git & GitHub
 - **APIs e Testes:** Postman, Axios
 
----
 
 ## 🎨 Design & Marketing
-
 🎭 **Identidade Visual** | 🎨 **Logomarca** | 📢 **Peças Publicitárias**  
 🖥 **UI/UX Design** | 🔲 **Adobe XD** | 🖌 **Adobe Photoshop** | ✏️ **Adobe Illustrator**  
 📈 **Google Ads** | 📊 **Facebook Ads**
 
----
 
 ## 🎓 Formação
+🎓 Full Stack Developer - *(Growdev - em andamento)*  
+📢 Tecnólogo em Marketing - *(Universidade LaSalle, 2023)*  
+🏗 Engenharia Civil (incompleto) - *(Unisinos, 2013-2016)*
 
-🎓 <a href="https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack" target="_blank">Full Stack Developer</a> *(Growdev - em andamento)*  
-📢 <a href="https://graduacao.unilasalle.edu.br/cursos-ead/marketing" target="_blank">Tecnólogo em Marketing</a> *(Universidade LaSalle, 2023)*  
-🏗 <a href="https://www.unisinos.br/graduacao/engenharia-civil/sao-leopoldo" target="_blank">Engenharia Civil (incompleto)</a> *(Unisinos, 2013-2016)*
 
----
 
 ## 💼 Experiência Profissional
-
 📊 **Gerente de Marketing** - *Oriup Creative Work, 2020 - 2023*
 
 🎯 **Coordenadora de Marketing** - *SIGMA Comércio e Serviços, 2016 - 2019*
 
----
+
 
 ## 📬 Contato
-
 📧 <a href="mailto:michelekopper@gmail.com">michelekopper@gmail.com</a>  
 💼 <a href="https://linkedin.com/in/michele-kopper" target="_blank">LinkedIn</a>  
 💻 <a href="https://github.com/MicheleKopper" target="_blank">GitHub</a>  
